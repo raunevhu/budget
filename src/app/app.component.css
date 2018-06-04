@@ -1,0 +1,32 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:60%;
+    text-align: left;
+    color:black;
+    
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(202, 112, 1)
+}
+td{
+    color:rgb(182, 100, 0);
+    font-size: 30px
+}
+th{
+    color: chocolate;
+    font-size: 40px
+}
+div{
+    background-color: rgb(189, 214, 228)
+}
+h4{
+    color: brown;
+    font-size: 20PX
+}
+
+
